@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
           <div>
-      <b-button variant="outline-info">Taiwan</b-button>
+        <b-btn variant="outline-info">Taiwan/<b-btn>>
       <b-button variant="outline-info">Corée</b-button>
       <b-button variant="outline-light">Japon</b-button>
       <b-button variant="outline-warning">Chine</b-button>
