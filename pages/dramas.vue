@@ -8,11 +8,11 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
           <div>
-      <b-button variant="outline-warning">Taiwan</b-button>
+      <b-button >Taiwan</b-button>
       <b-button variant="outline-info">Corée</b-button>
       <b-button variant="outline-light">Japon</b-button>
       <b-button variant="outline-warning">Chine</b-button>
-      <b-button variant="outline-info">Thailand</b-button>
+      <b-button variant="outline-info">Thailande</b-button>
       <b-button variant="outline-light">Autres</b-button>
         </div>
         <div class="tile is-ancestor">
