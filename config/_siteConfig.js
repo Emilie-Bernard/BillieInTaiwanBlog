@@ -19,14 +19,6 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
-    },
-    {
-      name: 'Contact',
-      link: '/contact'
-    },
-    {
       name: 'Categories',
       link: '/categories'
     },
@@ -41,6 +33,14 @@ export default {
     {
       name: 'Voyage',
       link: '/'
+    },
+    {
+      name: 'About',
+      link: '/about'
+    },
+    {
+      name: 'Contact',
+      link: '/contact'
     }
   ],
   hero: {
