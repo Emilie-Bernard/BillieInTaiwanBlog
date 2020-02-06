@@ -141,7 +141,7 @@
       </template>
      <template v-slot:sidebar>
         <h3 class="subtitle is-4">
-          Latest Posts
+          Derniers posts
         </h3>
         <!-- Latest Posts -->
         <posts-grid :per-row="1" :number="2" />
