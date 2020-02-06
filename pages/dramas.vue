@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
           <div class="tile is-ancestor">
-            <button class="button is-warning" size="large">Taiwan</button>
+            <button class="button is-warning" style="size:large">Taiwan</button>
             <button class="button is-primary" size="large">Corée</button>
             <button class="button is-danger" size="large">Chine</button>
             <button class="button is-info" size="large">Japon</button>
