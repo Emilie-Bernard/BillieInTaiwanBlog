@@ -23,19 +23,19 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Drama',
-      link: '/'
+      name: 'Dramas',
+      link: '/dramas'
     },
     {
-      name: 'Musique',
-      link: '/'
+      name: 'Musiques',
+      link: '/musiques'
     },
     {
-      name: 'Voyage',
-      link: '/'
+      name: 'Voyages',
+      link: '/voyages'
     },
     {
-      name: 'About',
+      name: 'À propos de moi',
       link: '/about'
     },
     {
