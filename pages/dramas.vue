@@ -2,7 +2,7 @@
   <div id="dramas-page" class="page-wrapper dramas-page content-page">
     <site-hero
       title="Dramas"
-      subtitle="Tous les dramas vu et mon avi"
+      subtitle="Une fois commencé on ne s'arrête plus"
       image="/uploads/drama-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
