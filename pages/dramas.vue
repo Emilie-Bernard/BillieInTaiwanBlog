@@ -34,7 +34,12 @@
                   slap an action on to have it post wherever you'd like. Or put
                   the netlify attribute on it and have netlify handle all your
                   form submissions...
-                </p>
+                </p><div>
+  <b-button>Button</b-button>
+  <b-button variant="danger">Button</b-button>
+  <b-button variant="success">Button</b-button>
+  <b-button variant="outline-primary">Button</b-button>
+</div>
               </div>
             </article>
           </div>
