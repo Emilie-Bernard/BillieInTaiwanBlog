@@ -6,12 +6,14 @@
       image="/uploads/drama-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
-      <template v-slot:default><div>
-  <b-button>Button</b-button>
-  <b-button variant="danger">Button</b-button>
-  <b-button variant="success">Button</b-button>
-  <b-button variant="outline-primary">Button</b-button>
-</div>
+      <template v-slot:default>
+          <div>
+      <button class="button is-primary">Taiwan</button>
+      <button class="button is-primary">Corée</button>
+      <button class="button is-primary">Chine</button>
+      <button class="button is-primary">Japon</button>
+      <button class="button is-primary">Thailande</button>
+        </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent is">
             <article class="tile is-child box">
@@ -48,7 +50,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                  Coréens
+                  Coréen    s
               </p>
               <p class="subtitle">
                 Ma liste des dramas coréens vu
