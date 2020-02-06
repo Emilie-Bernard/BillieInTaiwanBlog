@@ -7,6 +7,12 @@
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
+      <b-button variant="outline-warning">Taiwan</b-button>
+      <b-button variant="outline-info">Corée</b-button>
+      <b-button variant="outline-light">Japon</b-button>
+      <b-button variant="outline-warning">Chine</b-button>
+      <b-button variant="outline-info">Thailand</b-button>
+      <b-button variant="outline-light">Autres</b-button>
         <div class="tile is-ancestor">
           <div class="tile is-parent is">
             <article class="tile is-child box">
