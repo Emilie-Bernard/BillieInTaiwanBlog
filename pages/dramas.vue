@@ -16,7 +16,7 @@
            
         </div>
         <!-- Posts in Category -->
-        <posts-grid :category="[Drama]" :per-row="1" />
+        <posts-grid :category="['category-3']" :per-row="1" />
       </template>
      <template v-slot:sidebar>
         <h3 class="subtitle is-4">
