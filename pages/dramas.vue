@@ -8,11 +8,12 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
           <div class="tile is-ancestor">
-            <button class="button is-warning" style="size:large">Taiwan</button>
-            <button class="button is-primary" size="large">Corée</button>
-            <button class="button is-danger" size="large">Chine</button>
-            <button class="button is-info" size="large">Japon</button>
-            <button class="button is-success" size="large">Thailande</button>
+            <div><button class="button is-warning" style="size:large">Taiwan</button></div>
+            <div><button class="button is-primary" size="large">Corée</button></div>
+            <div><button class="button is-danger" size="large">Chine</button></div>
+            <div><button class="button is-info" size="large">Japon</button></div>
+            <div><button class="button is-success" size="large">Thailande</button></div>
+           
         </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent is">
