@@ -16,7 +16,7 @@
            
         </div>
         <!-- Posts in Category -->
-        <posts-grid :category="[$store.state.name]" :per-row="2" />
+        <posts-grid :category="[Drama]" :per-row="1" />
       </template>
      <template v-slot:sidebar>
         <h3 class="subtitle is-4">
