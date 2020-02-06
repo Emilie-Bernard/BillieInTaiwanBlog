@@ -7,7 +7,7 @@
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-          <div class="tile is-parent is-8">
+          <div class="tile is-parent is">
             <article class="tile is-child box">
               <p class="title">
                   Taiwanais
@@ -58,7 +58,7 @@
               </div>
             </article>
           </div>
-          <div class="tile is-parent is-4">
+          <div class="tile is-parent is">
             <article class="tile is-child box">
               <p class="title">
                   Chinois
