@@ -7,6 +7,7 @@
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
+        <div class="tile is-ancestor">
           <div class="tile is-parent is">
             <article class="tile is-child box">
               <p class="title">
@@ -32,6 +33,7 @@
               </div>
             </article>
           </div>
+        </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
