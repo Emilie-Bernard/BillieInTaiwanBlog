@@ -58,14 +58,64 @@
               </div>
             </article>
           </div>
-        </div><div class="tile is-ancestor">
+        </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                  Autres
+                  Chinois
               </p>
               <p class="subtitle">
-                Ma liste des dramas chinois/japonais/thailandais vu
+                Ma liste des dramas chinois vu
+              </p>
+              <br />
+              <div class="content">
+                <p>
+                  <strong>
+                    Edit this page in<code>/pages/contact.vue</code>to fit your
+                    needs.
+                  </strong>
+                </p>
+                <p>
+                  This form doesn't actually work but would be easy enough to
+                  slap an action on to have it post wherever you'd like. Or put
+                  the netlify attribute on it and have netlify handle all your
+                  form submissions...
+                </p>
+              </div>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                  Japonais
+              </p>
+              <p class="subtitle">
+                Ma liste des dramas japonais vu
+              </p>
+              <br />
+              <div class="content">
+                <p>
+                  <strong>
+                    Edit this page in<code>/pages/contact.vue</code>to fit your
+                    needs.
+                  </strong>
+                </p>
+                <p>
+                  This form doesn't actually work but would be easy enough to
+                  slap an action on to have it post wherever you'd like. Or put
+                  the netlify attribute on it and have netlify handle all your
+                  form submissions...
+                </p>
+              </div>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                  Thailandais
+              </p>
+              <p class="subtitle">
+                Ma liste des dramas thailandais vu
               </p>
               <br />
               <div class="content">
@@ -85,6 +135,24 @@
             </article>
           </div>
       </template>
+     <template v-slot:sidebar>
+        <h3 class="subtitle is-4">
+          Latest Posts
+        </h3>
+        <!-- Latest Posts -->
+        <posts-grid :per-row="1" :number="2" />
+      </template>
     </main-section>
   </div>
 </template>
+<script>
+import ContactForm from '~/components/ContactForm'
+export default {
+  head() {
+    return {
+      title: `Contact | ${this.$siteConfig.siteName}`
+    }
+  },
+  components: { ContactForm }
+}
+</script>
