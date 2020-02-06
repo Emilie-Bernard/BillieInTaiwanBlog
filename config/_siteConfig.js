@@ -91,6 +91,14 @@ export default {
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
   },
+  
+  // Dramas
+  dramas: {
+    on: true,
+    perPage: 12,
+    imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
+    theme: null // See card.theme (can be unique for categories if set here)
+  },
 
   // Posts
   posts: {
