@@ -122,7 +122,7 @@
                   <span style="color:#f0ad4e">Le Jun Kai 😄</span><br>
                   <span style="color:#f0ad4e">Leo 😄</span><br>
                   <span style="color:#f0ad4e">Lion Pride 😍</span><br>
-                  <span style="color:#f0ad4e">Love, Now 😄</span><br><br>
+                  <span style="color:#f0ad4e">Love, Now 😄</span><br>
                   <span style="color:#f0ad4e">Love @ Seventeen 😄</span><br>
                   <span style="color:#f0ad4e">Love Around 😍</span><br>
                   <span style="color:#f0ad4e">Love Buffet</span><br>
