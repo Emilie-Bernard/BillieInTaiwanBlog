@@ -44,13 +44,13 @@
       <div class="control">
         <textarea
           class="textarea"
-          placeholder="Description détaillé de votre demande, astuce et recommandation"
+          placeholder="Description détaillée de votre demande, astuce et recommandation"
           rows="8"
         ></textarea>
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary type="submit">Envoyer</button>
+      <button class="button is-primary" type="submit">Envoyer</button>
     </div>
   </form>
 </template>
