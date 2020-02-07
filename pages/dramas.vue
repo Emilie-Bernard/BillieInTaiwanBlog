@@ -1,5 +1,5 @@
 <template>
-  <div id="dramas-page" class="page-wrapper dramas-page content-page">
+  <div id="dramas-page" class="page-wrapper dramas-page">
     <site-hero
       title="Dramas"
       subtitle="Une fois commencé on ne s'arrête plus"
