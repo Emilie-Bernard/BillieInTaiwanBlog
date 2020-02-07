@@ -1,8 +1,8 @@
 <template>
   <div id="dramas-page" class="page-wrapper dramas-page">
     <site-hero
-      title="Dramas"
-      subtitle="Une fois commencé on ne s'arrête plus"
+      title="Dramas Coréens"
+      subtitle="Pour satisfaire tous vos besoins"
       image="/uploads/drama-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
@@ -19,7 +19,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                La liste de mes Dramas visualisés
+                La liste des dramas coréens que j'ai eu l'occasion de visionner
               </p>
               <p class="subtitle">
                 L'addiction monte vite, le nombre aussi !

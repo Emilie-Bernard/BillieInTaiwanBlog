@@ -19,7 +19,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                La liste de mes Dramas visualisés
+                La liste de tous les dramas que j'ai visualisés
               </p>
               <p class="subtitle">
                 L'addiction monte vite, le nombre aussi !
