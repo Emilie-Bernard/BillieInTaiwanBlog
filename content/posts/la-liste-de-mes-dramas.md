@@ -1,6 +1,6 @@
 ---
 title: La liste de mes dramas
-subtitle: L'addiction monte vite
+subtitle: 'L''addiction monte vite, le nombre aussi'
 category:
   - Drama
 author: Billie
