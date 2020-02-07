@@ -8,6 +8,8 @@ $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 $japon: #EBC0DE;
 $japon-invert: findColorInvert($japon);
+$thailande: #56dcd8;
+$thailande-invert: findColorInvert($thailande);
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
@@ -17,6 +19,7 @@ $colors: (
   "dark": ($dark, $dark-invert),
   "primary": ($primary, $primary-invert),
   "japon": ($japon, $japon-invert),
+  "thailande": ($thailande, $thailande-invert),
   "info": ($info, $info-invert),
   "success": ($success, $success-invert),
   "warning": ($warning, $warning-invert),
