@@ -113,10 +113,10 @@
 
 <script>
 export default {
-  name: 'DramaChinois',
+  name: 'DramasChinois',
   head() {
     return {
-      title: `Drama Chinois | ${this.$siteConfig.siteName}`
+      title: `Dramas Chinois | ${this.$siteConfig.siteName}`
     }
   }
 }

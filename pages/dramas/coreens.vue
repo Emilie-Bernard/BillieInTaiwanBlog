@@ -292,10 +292,10 @@
 
 <script>
 export default {
-  name: 'DramaCoreen',
+  name: 'DramasCoreens',
   head() {
     return {
-      title: `Drama Coréen | ${this.$siteConfig.siteName}`
+      title: `Dramas Coréens | ${this.$siteConfig.siteName}`
     }
   }
 }

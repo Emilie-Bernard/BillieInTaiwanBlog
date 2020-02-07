@@ -163,10 +163,10 @@
 
 <script>
 export default {
-  name: 'DramaJaponais',
+  name: 'DramasJaponais',
   head() {
     return {
-      title: `Drama Japonais | ${this.$siteConfig.siteName}`
+      title: `Dramas Japonais | ${this.$siteConfig.siteName}`
     }
   }
 }

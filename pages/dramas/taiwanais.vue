@@ -239,10 +239,10 @@
 
 <script>
 export default {
-  name: 'DramaTaiwanais',
+  name: 'DramasTaiwanais',
   head() {
     return {
-      title: `Drama Taiwanais | ${this.$siteConfig.siteName}`
+      title: `Dramas Taiwanais | ${this.$siteConfig.siteName}`
     }
   }
 }

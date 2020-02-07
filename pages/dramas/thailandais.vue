@@ -70,10 +70,10 @@
 
 <script>
 export default {
-  name: 'Drama Thailandais',
+  name: 'DramasThailandais',
   head() {
     return {
-      title: `Drama Thailandais | ${this.$siteConfig.siteName}`
+      title: `Dramas Thailandais | ${this.$siteConfig.siteName}`
     }
   }
 }

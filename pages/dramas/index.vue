@@ -171,10 +171,10 @@
 
 <script>
 export default {
-  name: 'Drama',
+  name: 'Dramas',
   head() {
     return {
-      title: `Drama | ${this.$siteConfig.siteName}`
+      title: `Dramas | ${this.$siteConfig.siteName}`
     }
   }
 }
