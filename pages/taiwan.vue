@@ -2,7 +2,7 @@
   <div id="dramas-page" class="page-wrapper dramas-page">
     <site-hero
       title="Dramas Taiwanais"
-      subtitle="Pastel et facilitée"
+      subtitle="Pastel et simplicité"
       image="/uploads/drama-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
