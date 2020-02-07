@@ -25,6 +25,13 @@
                 L'addiction monte vite, le nombre aussi !
               </p>
               <div class="content">
+              <p>
+              ⭐ = drama que j'ai adoré
+              <br>
+              😍 = drama que j'ai aimé
+              <br>
+              😄 = drama qui m'ont plus
+              </p>
                 <p>
                   <strong> 0-9 </strong>
                   <br>
