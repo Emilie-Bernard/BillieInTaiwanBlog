@@ -5,7 +5,7 @@
       subtitle="Une fois commencé on ne s'arrête plus"
       image="/uploads/drama-hero.jpg"
     ></site-hero>
-    <main-section theme="sidebar-right">
+    <main-section theme="one-column">
       <template v-slot:default>
           <div class="tile is-ancestor">
             <div class="tile is-parent is"><button class="button is-danger" style="font-size:30px;">Chine</button></div>
