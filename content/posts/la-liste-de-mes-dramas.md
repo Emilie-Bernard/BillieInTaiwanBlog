@@ -9,7 +9,7 @@ featureImage: uploads/drama-hero.jpg
 ---
 ### 0-9
 
-2 Moons The Series ⭐ - 🇰🇷 18 vs. 29 - 35 sai no Koukousei ⭐ - 🇰🇷 49 Days 😍 - 100 Scene No Koi 😄
+2 Moons The Series ⭐ - ![kr](https://github.githubassets.com/images/icons/emoji/unicode/1f1f0-1f1f7.png) 18 vs. 29 - 35 sai no Koukousei ⭐ - 🇰🇷 49 Days 😍 - 100 Scene No Koi 😄
 
 ### A
 
