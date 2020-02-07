@@ -8,11 +8,12 @@
     <main-section theme="one-column">
       <template v-slot:default> 
       <div class="tile is-ancestor">
-            <div class="tile is-parent is"><router-link to='/chine'><button class="button is-danger" style="font-size:30px;">Chine</button></router-link></div>
-            <div class="tile is-parent is"><router-link to='/coree'><button class="button is-primary" style="font-size:30px;">Corée</button></router-link></div>
-            <div class="tile is-parent is"><router-link to='/taiwan'><button class="button is-warning" style="font-size:30px;">Taiwan</button></router-link></div>
-            <div class="tile is-parent is"><router-link to='/japon'><button class="button is-japon" style="font-size:30px;">Japon</button></router-link></div>
-            <div class="tile is-parent is"><router-link to='/thailande'><button class="button is-thailande" style="font-size:30px;">Thailande</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/dramas'><button class="button " style="font-size:30px;">Tous</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/dramas-chinois'><button class="button is-danger" style="font-size:30px;">Chine</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/dramas-coreens'><button class="button is-primary" style="font-size:30px;">Corée</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/dramas-taiwanais'><button class="button is-warning" style="font-size:30px;">Taiwan</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/dramas-japonais'><button class="button is-japon" style="font-size:30px;">Japon</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/drama-thailandais'><button class="button is-thailande" style="font-size:30px;">Thailande</button></router-link></div>
         </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
@@ -103,7 +104,7 @@
                </p>
               </div>
             </article>
-          </di>
+          </div>
         </div>
       </template>
     </main-section>
