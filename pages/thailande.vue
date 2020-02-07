@@ -18,7 +18,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                La liste des dramas taiwanais que j'ai eu l'occasion de visionner
+                La liste des dramas thailandais que j'ai eu l'occasion de visionner
               </p>
               <p class="subtitle">
                 Petit à petit nous sombrons dans le monde infini des dramas 
