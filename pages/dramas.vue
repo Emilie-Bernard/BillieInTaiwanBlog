@@ -8,11 +8,11 @@
     <main-section theme="one-column">
       <template v-slot:default>
           <div class="tile is-ancestor">
-            <div class="tile is-parent is"><button class="button is-danger" style="font-size:30px;">Chine</button></div>
-            <div class="tile is-parent is"><button class="button is-primary" style="font-size:30px;">Corée</button></div>
+            <div class="tile is-parent is"><button class="button is-danger" style="font-size:30px;"><router-link to='/chine'>Chine</router-link></button></div>
+            <div class="tile is-parent is"><button class="button is-primary" style="font-size:30px;"><router-link to='/coree'>Corée</router-link></button></div>
             <div class="tile is-parent is"><button class="button is-warning" style="font-size:30px;"><router-link to='/taiwan'>Taiwan</router-link></button></div>
-            <div class="tile is-parent is"><button class="button is-japon" style="font-size:30px;">Japon</button></div>
-            <div class="tile is-parent is"><button class="button is-thailande" style="font-size:30px;">Thailande</button></div>
+            <div class="tile is-parent is"><button class="button is-japon" style="font-size:30px;"><router-link to='/japon'>Japon</router-link></button></div>
+            <div class="tile is-parent is"><button class="button is-thailande" style="font-size:30px;"><router-link to='/thailande'>Thailande</button></button></div>
            
         </div>
         <div class="tile is-ancestor">
