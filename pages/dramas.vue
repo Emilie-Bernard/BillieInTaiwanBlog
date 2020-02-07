@@ -10,7 +10,7 @@
           <div class="tile is-ancestor">
             <div class="tile is-parent is"><button class="button is-danger" style="font-size:30px;">Chine</button></div>
             <div class="tile is-parent is"><button class="button is-primary" style="font-size:30px;">Corée</button></div>
-            <div class="tile is-parent is"><button  href="/taiwan" class="button is-warning" style="font-size:30px;">Taiwan</button></div>
+            <div class="tile is-parent is"><button  v-on:click="location.href=url('taiwan')" class="button is-warning" style="font-size:30px;">Taiwan</button></div>
             <div class="tile is-parent is"><button class="button is-japon" style="font-size:30px;">Japon</button></div>
             <div class="tile is-parent is"><button class="button is-thailande" style="font-size:30px;">Thailande</button></div>
            
