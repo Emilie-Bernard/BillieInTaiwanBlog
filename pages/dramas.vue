@@ -13,7 +13,6 @@
             <div class="tile is-parent is"><router-link to='/taiwan'><button class="button is-warning" style="font-size:30px;">Taiwan</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/japon'><button class="button is-japon" style="font-size:30px;">Japon</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/thailande'><button class="button is-thailande" style="font-size:30px;">Thailande</button></router-link></div>
-           
         </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
