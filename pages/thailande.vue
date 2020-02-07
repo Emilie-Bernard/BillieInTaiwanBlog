@@ -1,8 +1,8 @@
 <template>
   <div id="dramas-page" class="page-wrapper dramas-page">
     <site-hero
-      title="Dramas Taiwanais"
-      subtitle="Pastel et simplicité"
+      title="Dramas Thailandais"
+      subtitle="Tout est mignon"
       image="/uploads/drama-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
