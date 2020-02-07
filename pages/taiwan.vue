@@ -125,7 +125,7 @@
                   <span style="color:#f0ad4e">Love of Sandstorm</span><br>
                   <span style="color:#f0ad4e">Love Or Bread</span><br>
                   <span style="color:#f0ad4e">Love You ⭐</span>
-               </p><br>
+               </p>
                <p>
                   <strong> M </strong>
                   <br>
@@ -175,7 +175,7 @@
                   <span style="color:#f0ad4e">Skip Beat !</span><br>
                   <span style="color:#f0ad4e">Smiling Pasta 😍</span><br>
                   <span style="color:#f0ad4e">Someday or One Day ⭐⭐</span><br>
-                  <span style="color:#f0ad4e">Summer's Desire ⭐</span><br><br>
+                  <span style="color:#f0ad4e">Summer's Desire ⭐</span><br>
                   <span style="color:#f0ad4e">Sunshine Angel</span><br>
                   <span style="color:#f0ad4e">Swimming Battle 😄</span>
                </p>
