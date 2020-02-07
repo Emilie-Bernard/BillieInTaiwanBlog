@@ -168,3 +168,14 @@
     </main-section>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'Drama',
+  head() {
+    return {
+      title: `Drama | ${this.$siteConfig.siteName}`
+    }
+  }
+}
+</script>

@@ -67,3 +67,14 @@
     </main-section>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'Drama Thailandais',
+  head() {
+    return {
+      title: `Drama Thailandais | ${this.$siteConfig.siteName}`
+    }
+  }
+}
+</script>

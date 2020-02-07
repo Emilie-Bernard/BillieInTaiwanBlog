@@ -110,3 +110,14 @@
     </main-section>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'DramaChinois',
+  head() {
+    return {
+      title: `Drama Chinois | ${this.$siteConfig.siteName}`
+    }
+  }
+}
+</script>

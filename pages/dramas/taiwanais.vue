@@ -236,3 +236,14 @@
     </main-section>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'DramaTaiwanais',
+  head() {
+    return {
+      title: `Drama Taiwanais | ${this.$siteConfig.siteName}`
+    }
+  }
+}
+</script>

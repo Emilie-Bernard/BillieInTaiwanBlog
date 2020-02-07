@@ -160,3 +160,14 @@
     </main-section>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'DramaJaponais',
+  head() {
+    return {
+      title: `Drama Japonais | ${this.$siteConfig.siteName}`
+    }
+  }
+}
+</script>

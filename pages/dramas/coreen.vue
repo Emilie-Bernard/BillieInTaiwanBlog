@@ -289,3 +289,14 @@
     </main-section>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'DramaCoreen',
+  head() {
+    return {
+      title: `Drama Coréen | ${this.$siteConfig.siteName}`
+    }
+  }
+}
+</script>
