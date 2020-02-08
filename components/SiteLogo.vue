@@ -22,11 +22,12 @@ export default {
 }
 </script>
 <style lang="scss">
+}
 .logo-wrapper {
   position: relative;
-  height: 7s0px;
+  height: 50px;
   overflow: hidden;
-  width: 250px;
+  width: 200px;
   .logo-inner {
     position: absolute;
     height: 500px;
