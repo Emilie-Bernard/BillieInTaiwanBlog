@@ -24,9 +24,9 @@ export default {
 <style lang="scss">
 .logo-wrapper {
   position: relative;
-  height: 50px;
+  height: 7s0px;
   overflow: hidden;
-  width: 200px;
+  width: 250px;
   .logo-inner {
     position: absolute;
     height: 500px;
