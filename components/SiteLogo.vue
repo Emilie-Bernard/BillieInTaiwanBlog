@@ -22,7 +22,6 @@ export default {
 }
 </script>
 <style lang="scss">
-}
 .logo-wrapper {
   position: relative;
   height: 50px;
