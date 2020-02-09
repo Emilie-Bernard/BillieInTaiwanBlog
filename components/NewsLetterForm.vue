@@ -34,7 +34,7 @@
 export default {
   data() {
     return {
-      email: ''
+      email: 'emilie1.bernard@gmail.com'
     }
   },
   computed: {
