@@ -1,6 +1,6 @@
 ---
-name: Musique
-image: uploads/markup-hero.jpg
+name: Musiques
+image: uploads/music-hero.jpg
 description: Toute la musique taïwanaise
 ---
 
