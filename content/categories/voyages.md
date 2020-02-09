@@ -1,6 +1,6 @@
 ---
 name: Voyages
-image: /uploads/hero-voyage.jpg
+image: /uploads/voyage-hero.jpg
 description: En voyageant on se découvre soit même
 ---
 
