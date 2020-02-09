@@ -3,9 +3,14 @@
     <site-hero
       title="Musiques"
       subtitle="Des milliers d'artistes taiwanais à encore découvrir"
-      image="/uploads/drama-hero.jpg"
+      image="/uploads/music-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
+      <template v-slot:default>
+          <div class="tile is-ancestor">
+            <div class="tile is-parent is"><router-link to='/categories/musiques'><button class="button is-dark" style="font-size:30px;">Articles</button></router-link></div>
+          </div>
+       </template>
     </main-section>
   </div>
 </template>

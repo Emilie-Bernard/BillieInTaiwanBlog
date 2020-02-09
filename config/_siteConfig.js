@@ -19,20 +19,16 @@ export default {
   },
   mainMenu: [
     {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
       name: 'Dramas',
       link: '/dramas'
     },
     {
       name: 'Musiques',
-      link: '/categories/musiques'
+      link: '/musiques'
     },
     {
       name: 'Voyages',
-      link: '/categories/voyages'
+      link: '/voyages'
     },
     {
       name: 'Contact',
