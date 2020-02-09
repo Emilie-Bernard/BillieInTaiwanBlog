@@ -1,6 +1,6 @@
 ---
-name: Drama
+name: Dramas
 image: uploads/drama-hero.jpg
-description: Présentation de drama
+description: Articles sur les dramas visualisés
 ---
 
