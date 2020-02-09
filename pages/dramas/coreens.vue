@@ -129,11 +129,11 @@
                <p>
                   <strong> I </strong>
                   <br>
-                  <span style="color:#117BAA">I am... 😄</span> 
-                  <span style="color:#117BAA">I Miss You</span> 
-                  <span style="color:#117BAA">I Need Romance 😍</span> 
-                  <span style="color:#117BAA">I Need Romance 2012 😄</span> 
-                  <span style="color:#117BAA">IRIS</span> 
+                  <span style="color:#117BAA">I am... 😄</span> <br>
+                  <span style="color:#117BAA">I Miss You</span> <br>
+                  <span style="color:#117BAA">I Need Romance 😍</span> <br>
+                  <span style="color:#117BAA">I Need Romance 2012 😄</span> <br>
+                  <span style="color:#117BAA">IRIS</span> <br>
                   <span style="color:#117BAA">It's Okay, It's Love ⭐</span>
                </p>
                <p>
