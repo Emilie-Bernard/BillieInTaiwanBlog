@@ -24,11 +24,11 @@ export default {
     },
     {
       name: 'Musiques',
-      link: '/musiques'
+      link: '/categories/musiques'
     },
     {
       name: 'Voyages',
-      link: '/voyages'
+      link: '/categories/voyages'
     },
     {
       name: 'Contact',
