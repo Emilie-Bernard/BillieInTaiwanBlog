@@ -19,10 +19,6 @@ export default {
   },
   mainMenu: [
     {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
       name: 'Dramas',
       link: '/dramas'
     },
@@ -33,10 +29,6 @@ export default {
     {
       name: 'Voyages',
       link: '/voyages'
-    },
-    {
-      name: 'À propos de moi',
-      link: '/about'
     },
     {
       name: 'Contact',

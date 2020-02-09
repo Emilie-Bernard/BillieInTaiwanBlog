@@ -14,6 +14,7 @@
             <div class="tile is-parent is"><router-link to='/dramas/taiwanais'><button class="button is-warning" style="font-size:30px;">Taiwan</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/japonais'><button class="button is-japon" style="font-size:30px;">Japon</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/thailandais'><button class="button is-thailande" style="font-size:30px;">Thailande</button></router-link></div>
+            <div class="tile is-parent is"><router-link to='/categories/dramas'><button class="button is-dark" style="font-size:30px;">Articles</button></router-link></div>
         </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
