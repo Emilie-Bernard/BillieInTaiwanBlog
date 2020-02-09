@@ -5,16 +5,16 @@
       subtitle="Example Contact Page"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
-    <main-section theme="sidebar-right">
+    <main-section theme="one-column">
       <template v-slot:default>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Bpnjour !
               </p>
               <p class="subtitle">
-                What can I do for you?
+                N'hésitez pas à m'envoyer un message
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -28,15 +28,11 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Pour tous sujets en raport avec le blog :
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Que ce soit des recommendations, un besoin de présicion ou si vous souhaitez que je fasse un article sur un sujet. Contactez-moi pour me faire parvenir votre demande.
                 </p>
               </div>
             </article>
@@ -47,13 +43,6 @@
             </article>
           </div>
         </div>
-      </template>
-      <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
-          Latest Posts
-        </h3>
-        <!-- Latest Posts -->
-        <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>
