@@ -28,15 +28,11 @@ export default {
     },
     {
       name: 'Musiques',
-      link: '/musiques'
+      link: '/categories/musiques'
     },
     {
       name: 'Voyages',
-      link: '/voyages'
-    },
-    {
-      name: 'À propos de moi',
-      link: '/about'
+      link: '/categories/voyages'
     },
     {
       name: 'Contact',
