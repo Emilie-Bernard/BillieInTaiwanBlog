@@ -3,7 +3,7 @@
     <site-hero
       :title="$store.state.name"
       :subtitle="$store.state.content"
-      :image="$store.state.image"
+      :image="'/'+$store.state.image"
     />
     <main-section theme="sidebar-right">
       <template v-slot:default>
