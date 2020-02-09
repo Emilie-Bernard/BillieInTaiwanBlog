@@ -19,6 +19,10 @@ export default {
   },
   mainMenu: [
     {
+      name: 'Accueil',
+      link: '/'
+    },
+    {
       name: 'Dramas',
       link: '/dramas'
     },
