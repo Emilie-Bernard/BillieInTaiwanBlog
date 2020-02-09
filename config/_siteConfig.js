@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Billie In Taiwan',
-  tagline: 'Blog d\'une française passionnée par Taiwan',
+  tagline: 'Blog d\'une française passionnée par les dramas, la musique, les voyages et surtout Taiwan',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
