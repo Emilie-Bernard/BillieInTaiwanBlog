@@ -2,10 +2,10 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 # This line should *not* be indented
-media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
-public_folder: "uploads" # The src attribute for uploaded media will begin with /images/uploads
-site_url: https://laughing-carson-3b05ea.netlify.com
-logo_url: https://laughing-carson-3b05ea.netlify.com/logo.png
+media_folder: "assets/uploads/" # Media files will be stored in the repo under images/uploads
+public_folder: "uploads/" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://billieintaiwan.com
+logo_url: https://billieintaiwan.com/logo.png
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
