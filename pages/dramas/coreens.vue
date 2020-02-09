@@ -36,8 +36,7 @@
                   <strong> 0-9 </strong>
                   <br>
                   <span style="color:#117BAA">18 vs. 29</span><br>
-                   <span style="color:#117BAA"> 49 Days 😍 </span> <br>
-                   <span style="color:#EBC0DE">100 Scene No Koi 😄</span>
+                   <span style="color:#117BAA"> 49 Days 😍 </span> 
                 </p>
                 <p>
                   <strong> A </strong>
@@ -87,8 +86,7 @@
                   <span style="color:#117BAA">Dramaworld ⭐</span><br>
                   <span style="color:#117BAA">Dream High ⭐</span> <br>
                   <span style="color:#117BAA">Dream High 2 😍 </span><br>
-                  <span style="color:#117BAA">Dream Knight 😍</span><br>
-                  <span style="color:#f0ad4e">Déjà Vu 😍</span>
+                  <span style="color:#117BAA">Dream Knight 😍</span>
                 <p>
                   <strong> E </strong>
                   <br>

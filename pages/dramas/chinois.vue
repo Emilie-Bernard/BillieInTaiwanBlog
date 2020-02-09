@@ -76,13 +76,8 @@
                   <span style="color:#d9534f">My Little Princess 😄</span> 
                </p>
                <p>
-                  <strong> N </strong>
+                  <strong> N - O </strong>
                   <br>
-               <p>
-                  <strong> O </strong>
-                  <br>
-                  <span style="color:#f0ad4e">Office Girls 😄</span><br>
-                  <span style="color:#f0ad4e">Once More Heartbeat 😄</span>
                </p>
                <p>
                   <strong> P </strong>
