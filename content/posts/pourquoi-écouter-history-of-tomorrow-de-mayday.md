@@ -61,7 +61,7 @@ Une chanson qui fait ressortir une reconnaissance infini envers le destin et les
 
 ##### Clip musical
 
-![](uploads/mayday-whatifwehadnevermet.PNG "WhatIfWeHadNeverMet")
+![](/uploads/mayday-whatifwehadnevermet.jpg "WhatIfWeHadNeverMet")
 
 Le clip quant à lui retranscrit les souvenirs d'une femme au travers son walkman et de son premier amour. C'est une vision totalement différente mais valable des paroles et de la signification que l'on peut se faire.
 
@@ -90,13 +90,13 @@ Pour cette chanson, trois clips musicaux on été réalisés :
 
 [1. Mayday五月天 \[ 成名在望 Almost Famous ] 夢想小屋版 Official Music Video](https://www.youtube.com/watch?v=t5EiR5txpJU)
 
-![](uploads/mayday-almostfamous1.PNG "AlmostFamous1")
+![](/uploads/mayday-almostfamous1.jpg "AlmostFamous1")
 
 Du point de vu d'un jeune adolescent (joué par Jackson Yee du groupe TFBOYS) rêvant de faire de la musique avec ses amis, mais qui traverses maintes difficultés pour atteindre son but. Son père (Luo Pei An) lui interdit, ils galèrent pour faire de l'argent. Quand ils deviennent enfin connu, ils font face à l’humiliation, la violation de leur vie privée (et le ressenti de l'adolescent vivant tout cela), la destruction des rêves et de l'amitié.
 
 [2. Mayday五月天 \[ 成名在望 Almost Famous ] 樂團時代版 Official Music Video](<https://www.youtube.com/watch?v=E1xrBs_BZgs>)
 
-![](uploads/mayday-almostfamous2.PNG "AlmostFamous2")
+![](/uploads/mayday-almostfamous2.jpg "AlmostFamous2")
 
 Plusieurs groupes chante cette chanson, pouvant ainsi être apparenté comme une chanson véridique.
 
