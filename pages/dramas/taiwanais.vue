@@ -3,7 +3,7 @@
     <site-hero
       title="Dramas Taiwanais"
       subtitle="Pastel et simplicité"
-      image="/uploads/drama-hero.jpg"
+      image="uploads/drama-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
       <template v-slot:default> 
