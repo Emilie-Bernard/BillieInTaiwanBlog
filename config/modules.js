@@ -39,7 +39,7 @@ export const modulesSettings = {
    */
   axios: axiosSettings,
   responsiveLoader: {
-    name: 'uploads/[hash:7]-[width].[ext]',
+    name: '/uploads/[hash:7]-[width].[ext]',
     min: 640, // minimum image width generated
     max: 1800, // maximum image width generated
     steps: 4, // five sizes per image will be generated

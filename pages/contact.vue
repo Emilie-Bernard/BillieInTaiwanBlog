@@ -3,7 +3,7 @@
     <site-hero
       title="Contaxtez-moi"
       subtitle="Quelque chose à dire ?"
-      image="uploads/contact-hero.jpg"
+      image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
       <template v-slot:default>

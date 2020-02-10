@@ -3,7 +3,7 @@
     <site-hero
       title="Musiques"
       subtitle="Des milliers d'artistes taiwanais à encore découvrir"
-      image="uploads/music-hero.jpg"
+      image="/uploads/music-hero.jpg"
     ></site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
