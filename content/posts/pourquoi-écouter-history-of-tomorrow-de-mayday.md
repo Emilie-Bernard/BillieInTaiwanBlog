@@ -15,8 +15,6 @@ Le groupe a commencé en 1995 alors qu'ils étaient trois : Ashin, Monster et Qi
 
 Depuis maintenant plus de 20 ans le groupe est reconnu nationalement grâce à leurs nombreuses chansons, la plupart des paroles étant écrites par Ashin et Monster. Ils ont gagnés à ce jour-ci près de 150 prix musicaux.
 
-
-
 ## History Of Tomorrow
 
 Il s'agit de leur neuvième et dernier album qui sorti en 2016. À lui seul il a gagné pas moins de 22 prix au cours des 3 dernières années. Il est composé de 15 chansons, toutes plus magnifiques les unes des autres.
@@ -51,8 +49,6 @@ L'album parle d'amour, d'amitié et de vie, mais aussi de leur vie. C'est ce qui
 
 [13 - 转眼 - Final Chapter](https://www.youtube.com/watch?v=GuqY5OViunk)
 
-
-
 #### 01- 如果我们不曾相遇 - What if we had never met
 
 ##### Paroles
@@ -82,25 +78,23 @@ Almost Famous raconte l’histoire de leur début qui pourrait s’apparenter à
 5. Y croire. Toujours.
 6. Ne pas oublier qui on est et d'où on vient.
 
-
-
 ##### Clips musicaux
 
 Pour cette chanson, trois clips musicaux on été réalisés :
 
-[1. Mayday五月天 \[ 成名在望 Almost Famous ] 夢想小屋版 Official Music Video](https://www.youtube.com/watch?v=t5EiR5txpJU)
+\[1. Mayday五月天 [ 成名在望 Almost Famous ] 夢想小屋版 Official Music Video](https://www.youtube.com/watch?v=t5EiR5txpJU)
 
 ![](/uploads/mayday-almostfamous1.jpg "AlmostFamous1")
 
 Du point de vu d'un jeune adolescent (joué par Jackson Yee du groupe TFBOYS) rêvant de faire de la musique avec ses amis, mais qui traverses maintes difficultés pour atteindre son but. Son père (Luo Pei An) lui interdit, ils galèrent pour faire de l'argent. Quand ils deviennent enfin connu, ils font face à l’humiliation, la violation de leur vie privée (et le ressenti de l'adolescent vivant tout cela), la destruction des rêves et de l'amitié.
 
-[2. Mayday五月天 \[ 成名在望 Almost Famous ] 樂團時代版 Official Music Video](<https://www.youtube.com/watch?v=E1xrBs_BZgs>)
+\[2. Mayday五月天 [ 成名在望 Almost Famous ] 樂團時代版 Official Music Video](<https://www.youtube.com/watch?v=E1xrBs_BZgs>)
 
 ![](/uploads/mayday-almostfamous2.jpg "AlmostFamous2")
 
 Plusieurs groupes chante cette chanson, pouvant ainsi être apparenté comme une chanson véridique.
 
-[3.Mayday五月天 \[ 成名在望 Almost Famous ] 現場無限Life版 Official Music Video](https://www.youtube.com/watch?v=-hU1O3bG1eo)
+\[3.Mayday五月天 [ 成名在望 Almost Famous ] 現場無限Life版 Official Music Video](https://www.youtube.com/watch?v=-hU1O3bG1eo)
 
 Il s'agit de la version live.
 
@@ -110,26 +104,125 @@ Il s'agit de la version live.
 
 Cette chanson raconte une histoire mais délivre aussi un message : celui de ne jamais abandonné les choses qu'on aime faire. Ne pas abandonner et avancer autant qu'on peut. En l'écoutant on entend un côté triste, une nostalgie en souvenir au chemin que le groupe parcouru.
 
-
-
 #### 03 - 好好 - Song About You
 
 ##### Paroles
 
+Une histoire racontant la rapidité de la vie surtout quand on vit des moments superbes avec des personnes. Cette relation où les personnes oublient de grandir, reste entre l'enfance et l'âge adulte. Quand passé cet âge, nous ne faisons que se rappeler de ses souvenirs.
+
 ##### Clip musical
+
+![](/uploads/mayday-songaboutyou.PNG "SongAboutYou")
+
+On peut voir deux lycéennes qui rencontre une troisième jeune femme qui semble perdue. Une amitié naissante qui s'étale rapidement mais qui s'estompe tout aussi vite quand un garçon apparaît. Nous pouvons voir aussi des balançoires qui peuvent signifier la jeunesse et l'envie de ne jamais grandir.
 
 ##### Ressenti
 
-
+Très jolie musique et aussi très triste. La mélancolie est présente pour raconter cette histoire d'amitié qui passe trop rapidement.
 
 #### 04 - 兄弟 - Brotherhood
 
 ##### Paroles
 
+Encore une histoire d'amitié dans cette chanson mais pas des moindre puisqu'il s'agit de celle vécu par Ashin et le groupe. Une amitié qui vie chaque moment, les bons comme les mauvais, celle où les personnes s'aide mutuellement, celle sans qui on ne serait rien. Ne jamais pouvoir s'arrêter de parler, toujours avoir de nouvelles choses à dire, jusqu'à pas d'heure. Vivre avec l'ère du temps et se voir changer mais rester quand même toujours amis.
+
+##### Clip musical
+
+![](/uploads/mayday-brotherhood.PNG "Brotherhood")
+
+Un clip vraiment rigolo axé sur des membres de groupe ne s’entendant absolument pas, chacun faisant des farces à l'un accusant un autre. 
+
+##### Ressenti
+
+Les paroles représente vraiment l'amitié comme je la vois avec des personnes qui sont là pour moi dans les mauvais moments comme dans les bons. Ces personnes qui connaissent toutes les choses embarrassantes sur moi mais qui m'aiment quand même. Celle avec qui je vie des moments drôles, joyeux et pleins de vies. La chanson remonte vraiment le moral avec des sonorités pop vraiment ambianceuses.
+
+#### 05 - 人生有限公司 - Life Co. Ltd.
+
+##### Paroles
+
+C’est l’histoire de la vie. Divisé en quatre départements : 
+
+* L’obéissance.
+* Le travail.
+* L’argent.
+* L’amour. 
+
+En effet, dans la vie il faut d’abord apprendre à obéir puis à passer nos examens sans savoir qui on est vraiment ou ce que l’on veut faire et ce que l’on aime. L’argent nous permettant de voir la réalité de la vie et enfin l’amour qui nous permet de vivre sauvagement. La vie est limité il faut être extravagant et vivre sans limite.
+
+##### Ressenti
+
+On continu dans la foulé des musique qui mettent la pêche. Cette chanson nous transmet l’idée que tout est possible, il y a des limite mais les possibilités elles sont infinies. Il faut vivre pour être heureux et non pour les autres. 
+
+#### 06 - 后来的我们 - Here, After, Us
+
+##### Paroles
+
 ##### Clip musical
 
 ##### Ressenti
 
+#### 07 - 顽固 - Tough
+
+##### Paroles
+
+##### Clip musical
+
+##### Ressenti
+
+#### 08 - 派对动物 - Party Animal
+
+##### Paroles
+
+##### Clip musical
+
+##### Ressenti
+
+#### 09 - 最好的一天 - Best Day of My Life
+
+##### Paroles
+
+##### Ressenti
+
+#### 10 - 少年他的奇幻漂流 - The Life of Planet
+
+##### Paroles
+
+##### Clip musical
+
+##### Ressenti
+
+#### 11 - 终于结束的起点 - Beginning of the End
+
+##### Paroles
+
+##### Clip musical
+
+##### Ressenti
+
+#### 12 - 任意门 - Dokodemo Door
+
+##### Paroles
+
+##### Clip musical
+
+##### Ressenti
+
+#### 13 - 转眼 - Final Chapter
+
+##### Paroles
+
+##### Clip musical
+
+##### Ressenti
+
+
+
 ## En conclusion
 
-Un life tour de 122 dates à été fait après la sortie de cet album. Il en est ressortie avec 4.15 millions de personnes ayant assisté à leurs concerts et un film Netflix racontant l'histoire de l'album : Mayday Life.
+Cet album est un mélange de nostalgie et de reconnaissance sur le chemin qu'ils ont parcouru, les personnes qu'ils ont rencontré et la vie en général. Il s'agit pour moi du plus grand classique de ces vingts-ans en matière d'album taïwanais.
+
+
+
+PS : Un life tour de 122 dates à été fait après la sortie de cet album. Il en est ressortie avec 4.15 millions de personnes ayant assisté à leurs concerts et un film Netflix racontant l'histoire de l'album : Mayday Life.
+
+*Chansons traduites avec l'aide du site : [Mayday Translations | Translating Mayday 五月天 lyrics into English](https://maydaylyrics.wordpress.com/)*
