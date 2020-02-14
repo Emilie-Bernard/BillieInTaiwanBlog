@@ -1,5 +1,5 @@
 ---
-title: History Of Tomorrow de Mayday
+title: '[Mayday] History Of Tomorrow'
 subtitle: L'album
 category:
   - Musiques
