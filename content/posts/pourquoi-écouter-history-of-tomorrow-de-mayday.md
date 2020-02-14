@@ -1,6 +1,6 @@
 ---
-title: Pourquoi écouter History Of Tomorrow de Mayday
-subtitle: Critique et ressenti de l'album numéro 9 du groupe Taiwanais de rock Mayday
+title: History Of Tomorrow de Mayday
+subtitle: L'album
 category:
   - Musiques
 author: Billie
