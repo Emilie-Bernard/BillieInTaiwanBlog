@@ -9,14 +9,10 @@ featureImage: /uploads/music-hero.jpg
 ---
 ## Le groupe
 
-
+Groupe de Rock composé de 4 membres : Vince Chang (guitare), Mify Chen (chant), Han Si (Guitare) et Kai Chun (Batterie)
 
 ## La musique
 
-
-
 ## Les clips
-
-
 
 ## Recommandation
