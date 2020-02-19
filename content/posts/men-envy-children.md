@@ -5,7 +5,7 @@ category:
   - Musiques
 author: Billie
 date: 2020-02-14T08:55:07.059Z
-featureImage: /uploads/music-hero.jpg
+featureImage: /uploads/men_envy_children.jpg
 ---
 ## Le groupe
 
