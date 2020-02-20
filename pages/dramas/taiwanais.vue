@@ -11,7 +11,6 @@
             <div class="tile is-parent is"><router-link to='/dramas'><button class="button " style="font-size:30px;">Tous</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/chinois'><button class="button is-danger" style="font-size:30px;">Chine</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/coreens'><button class="button is-primary" style="font-size:30px;">Corée</button></router-link></div>
-            <div class="tile is-parent is"><router-link to='/dramas/taiwanais'><button class="button is-warning" style="font-size:30px;">Taiwan</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/japonais'><button class="button is-japon" style="font-size:30px;">Japon</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/thailandais'><button class="button is-thailande" style="font-size:30px;">Thailande</button></router-link></div>
         </div>
@@ -182,7 +181,7 @@
                   <span style="color:#f0ad4e">Single Ladies Senior 😍</span><br>
                   <span style="color:#f0ad4e">Skip Beat !</span><br>
                   <span style="color:#f0ad4e">Smiling Pasta 😍</span><br>
-                  <span style="color:#f0ad4e">Someday or One Day ⭐⭐</span><br>
+                  <span style="color:#f0ad4e" href="https://www.billieintaiwan.com/someday-or-one-day">Someday or One Day ⭐⭐</span><br>
                   <span style="color:#f0ad4e">Summer's Desire ⭐</span><br>
                   <span style="color:#f0ad4e">Sunshine Angel</span><br>
                   <span style="color:#f0ad4e">Swimming Battle 😄</span>
