@@ -345,7 +345,7 @@
                   <span style="color:#f0ad4e">Skip Beat !</span><br>
                   <span style="color:#f0ad4e">Smiling Pasta 😍</span> <br>
                   <span style="color:#117BAA">Snow Lotus 😍</span><br>
-                  <span style="color:#f0ad4e" href="https://www.billieintaiwan.com/someday-or-one-day">Someday or One Day ⭐⭐</span><br>
+                  <a href="https://www.billieintaiwan.com/someday-or-one-day"><span style="color:#f0ad4e">Someday or One Day ⭐⭐</span></a><br>
                   <span style="color:#117BAA">Splash Splash Love 😍</span><br>
                   <span style="color:#117BAA">Star of the Universe 😍</span><br>
                   <span style="color:#117BAA">Stars falling from the sky 😍</span><br>
