@@ -2,7 +2,7 @@
 title: History Of Tomorrow
 subtitle: Album de Mayday
 category:
-  - Dramas
+  - Musiques
 author: Billie
 date: 2020-02-06T13:41:05.911Z
 featureImage: /uploads/mayday-historyoftomorrow.jpg
