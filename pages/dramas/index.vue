@@ -8,14 +8,12 @@
     <main-section theme="one-column">
       <template v-slot:default>
           <div class="tile is-ancestor">
-            <div class="tile is-parent is"><router-link to='/dramas'><button class="button " style="font-size:30px;">Tous</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/chinois'><button class="button is-danger" style="font-size:30px;">Chine</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/coreens'><button class="button is-primary" style="font-size:30px;">Corée</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/taiwanais'><button class="button is-warning" style="font-size:30px;">Taiwan</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/japonais'><button class="button is-japon" style="font-size:30px;">Japon</button></router-link></div>
             <div class="tile is-parent is"><router-link to='/dramas/thailandais'><button class="button is-thailande" style="font-size:30px;">Thailande</button></router-link></div>
-            <div class="tile is-parent is"><router-link to='/categories/dramas'><button class="button is-dark" style="font-size:30px;">Articles</button></router-link></div>
-        </div>
+         </div>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
@@ -347,7 +345,7 @@
                   <span style="color:#f0ad4e">Skip Beat !</span><br>
                   <span style="color:#f0ad4e">Smiling Pasta 😍</span> <br>
                   <span style="color:#117BAA">Snow Lotus 😍</span><br>
-                  <span style="color:#f0ad4e">Someday or One Day ⭐⭐</span><br>
+                  <span style="color:#f0ad4e" href="https://www.billieintaiwan.com/someday-or-one-day">Someday or One Day ⭐⭐</span><br>
                   <span style="color:#117BAA">Splash Splash Love 😍</span><br>
                   <span style="color:#117BAA">Star of the Universe 😍</span><br>
                   <span style="color:#117BAA">Stars falling from the sky 😍</span><br>
