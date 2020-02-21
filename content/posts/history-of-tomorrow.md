@@ -112,7 +112,7 @@ Une histoire racontant la rapidité de la vie surtout quand on vit des moments s
 
 ##### Clip musical
 
-![](/uploads/mayday-songaboutyou.PNG "SongAboutYou")
+![](/uploads/mayday-songaboutyou.jpg "SongAboutYou")
 
 On peut voir deux lycéennes qui rencontrent une troisième jeune femme qui semble perdue. Une amitié naissante qui s'étale rapidement mais qui s'estompe tout aussi vite quand un garçon apparaît. Nous pouvons voir aussi des balançoires qui peuvent signifier la jeunesse et l'envie de ne jamais grandir.
 
@@ -177,7 +177,7 @@ On a tous en nous les souvenirs de nos rêves d'enfance. Cette chanson raconte l
 
 ##### Clip musical
 
-![](/uploads/mayday-tough.PNG "Though")
+![](/uploads/mayday-tough.jpg "Though")
 
 En reprenant les personnages des autres clips, notamment ceux de Almost Famous et de Beginning of the end, on retrace leur vie et les difficultés vécu. Mais aussi la réalisation du rêve d'un homme (l'enfant du clip Life Of Planet devenu adulte), rappelant au autre les rêves qu'ils avaient tous eu une fois enfant. Ce clip est très triste mais il montre qu'il faut toujours essayer de réaliser nos rêves.
 
