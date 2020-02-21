@@ -1,6 +1,6 @@
 ---
-title: '[Mayday] History Of Tomorrow - Part 2'
-subtitle: Critique d'album
+title: History Of Tomorrow - Part 2
+subtitle: Critique de l'album de Mayday
 category:
   - Musiques
 author: Billie
