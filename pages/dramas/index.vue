@@ -364,6 +364,7 @@
                   <span style="color:#117BAA">The 1st Shop of Coffee Prince ⭐</span><br>
                   <span style="color:#117BAA">The Accidental Couple</span><br>
                   <span style="color:#f0ad4e">The Crossing Hero 😍</span><br>
+                  <b><a href="https://www.billieintaiwan.com/the-ghost-bride"><span style="color:#f0ad4e">The Ghost Bride 😍</span></a></b><br>
                   <span style="color:#117BAA">The Greatest Love 😍</span><br>
                   <span style="color:#117BAA">The King 2 Hearts</span><br>
                   <span style="color:#f0ad4e">The Magicians of Love 😄</span><br>
