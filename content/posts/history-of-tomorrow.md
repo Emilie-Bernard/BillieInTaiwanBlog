@@ -103,3 +103,5 @@ Il s'agit de la version live.
 ##### Ressenti
 
 Cette chanson raconte une histoire mais délivre aussi un message : celui de ne jamais abandonné les choses qu'on aime faire. Ne pas abandonner et avancer autant qu'on peut. En l'écoutant on entend un côté triste, une nostalgie en souvenir au chemin que le groupe parcouru.
+
+Clique ici pour accéder à la partie 2 de l'article ^^
