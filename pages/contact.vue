@@ -1,7 +1,7 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contaxtez-moi"
+      title="Contactez-moi"
       subtitle="Quelque chose à dire ?"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
@@ -11,7 +11,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Bpnjour !
+                Bonjour !
               </p>
               <p class="subtitle">
                 N'hésitez pas à m'envoyer un message
