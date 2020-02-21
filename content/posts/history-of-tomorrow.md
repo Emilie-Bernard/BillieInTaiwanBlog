@@ -4,7 +4,7 @@ subtitle: Critique de l'album Mayday
 category:
   - Musiques
 author: Billie
-date: 2020-02-21T10:02:56.845Z
+date: 2020-02-01T10:02:56.845Z
 featureImage: /uploads/mayday-historyoftomorrow.jpg
 ---
 ## Mayday, qui sont-ils ?
