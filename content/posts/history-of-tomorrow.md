@@ -63,4 +63,59 @@ Le clip quant à lui retranscrit les souvenirs d'une femme au travers de son wal
 
 ##### Ressenti
 
-Cette chanson me fait beaucoup pensé à Brotherhood car pour moi elle parle de rencontre et d'amitié, je pense à mes amies qui sans elles, je ne serais pas celle que je suis aujourd'hui et cette chanson fait vraiment sens à cette pensée. On grandi avec les gens, on change avec eux et cette chanson reflète vraiment ce sentiment.
+Cette chanson me fait beaucoup pensé à Brotherhood car pour moi elle parle de rencontre et d'amitié, je pense à mes amies qui sans elles, je ne serais pas celle que je suis aujourd'hui et cette chanson fait vraiment sens à cette pensée. On grandi avec les gens, on change avec eux et cette chanson reflète vraiment ce sentiment. 
+
+#### 02 - 成名在望 - Almost Famous
+
+##### Paroles
+
+Almost Famous raconte l’histoire de leur début qui pourrait s’apparenter à n’importe quel groupe de musique composé de jeune musiciens. Les différentes étapes obligatoires pour prospérer en tant que groupes sont toutes énumérées dans cette chanson : 
+
+1. Le travail acharné pour gagner de l'expérience dans ce monde inconnu.
+2. Ne pas s'arrêter, être têtu et ne rien lâcher : **"Les rêves sont l’essence de la passion, de la sueurs et des larmes."** Cette phrase à tout son sens dans le monde de la musique quand si tu n'es pas passionné tu n'y arriveras pas, si tu abandonnes et que tu ne t'y mets pas corps et âme tu n'y arriveras pas non plus.
+3. Choisir entre la vie quotidienne et le monde de la musique.
+4. Faire face à la vraie célébrité est-ce celle qui était attendue ?
+5. Y croire. Toujours.
+6. Ne pas oublier qui on est et d'où on vient.
+
+##### Clips musicaux
+
+Pour cette chanson, trois clips musicaux ont été réalisés :
+
+\[1. Mayday五月天 [ 成名在望 Almost Famous ] 夢想小屋版 Official Music Video](https://www.youtube.com/watch?v=t5EiR5txpJU)
+
+![](/uploads/mayday-almostfamous1.jpg "AlmostFamous1")
+
+Du point de vu d'un jeune adolescent (joué par Jackson Yee du groupe TFBOYS) rêvant de faire de la musique avec ses amis, mais qui traverses maintes difficultés pour atteindre son but. Son père (Luo Pei An) lui interdit, ils galèrent pour faire de l'argent. Quand ils deviennent enfin connu, ils font face à l’humiliation, la violation de leur vie privée (et le ressenti de l'adolescent vivant tout cela), la destruction des rêves et de l'amitié.
+
+\[2. Mayday五月天 [ 成名在望 Almost Famous ] 樂團時代版 Official Music Video](<https://www.youtube.com/watch?v=E1xrBs_BZgs>)
+
+![](/uploads/mayday-almostfamous2.jpg "AlmostFamous2")
+
+Plusieurs groupes chante cette chanson, pouvant ainsi être apparenté comme une chanson véridique.
+
+\[3.Mayday五月天 [ 成名在望 Almost Famous ] 現場無限Life版 Official Music Video](https://www.youtube.com/watch?v=-hU1O3bG1eo)
+
+Il s'agit de la version live.
+
+*Petite remarque dans les deux premiers clips, la cassette musicale de So Band est présente signifiant ainsi les début du groupe.*
+
+##### Ressenti
+
+Cette chanson raconte une histoire mais délivre aussi un message : celui de ne jamais abandonné les choses qu'on aime faire. Ne pas abandonner et avancer autant qu'on peut. En l'écoutant on entend un côté triste, une nostalgie en souvenir au chemin que le groupe parcouru.
+
+#### 03 - 好好 - Song About You
+
+##### Paroles
+
+Une histoire racontant la rapidité de la vie surtout quand on vit des moments superbes avec des personnes. Cette relation où les personnes oublient de grandir, reste entre l'enfance et l'âge adulte. Quand passer cet âge, nous ne faisons que se rappeler de ses souvenirs.
+
+##### Clip musical
+
+![](/uploads/mayday-songaboutyou.PNG "SongAboutYou")
+
+On peut voir deux lycéennes qui rencontrent une troisième jeune femme qui semble perdue. Une amitié naissante qui s'étale rapidement mais qui s'estompe tout aussi vite quand un garçon apparaît. Nous pouvons voir aussi des balançoires qui peuvent signifier la jeunesse et l'envie de ne jamais grandir.
+
+##### Ressenti
+
+Très jolie musique et aussi très triste. La mélancolie est présente pour raconter cette histoire d'amitié qui passe trop rapidement.
