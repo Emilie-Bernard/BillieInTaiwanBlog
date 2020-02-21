@@ -1,5 +1,5 @@
 ---
-title: History Of Tomorrow - Part 2
+title: History Of Tomorrow 2
 subtitle: Critique de l'album de Mayday
 category:
   - Musiques
