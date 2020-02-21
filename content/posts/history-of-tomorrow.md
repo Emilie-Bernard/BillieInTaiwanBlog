@@ -128,7 +128,7 @@ Encore une histoire d'amitié dans cette chanson mais pas des moindre puisqu'il 
 
 ##### Clip musical
 
-![](/uploads/mayday-brotherhood.PNG "Brotherhood")
+![](/uploads/mayday-brotherhood.jpg "Brotherhood")
 
 Un clip vraiment rigolo axé sur des membres de groupe ne s’entendant absolument pas, chacun faisant des farces à l'un accusant un autre. 
 
@@ -161,7 +161,7 @@ Alors que son ex à réussi à refaire sa vie avec une autre personne, Ashin n'a
 
 ##### Clip musical
 
-![](/uploads/mayday-hereafterus.PNG "HereAfterUs")
+![](/uploads/mayday-hereafterus.jpg "HereAfterUs")
 
 L'histoire d'un couple séparé qui pensent encore à leur relation passé mais devant quand même avancer, leur retrouvaille.
 
@@ -267,7 +267,7 @@ La vie passe trop vite, en se rappelant de tout ce que tu as vécu et que tu pou
 
 ##### Clip musical
 
-![](/uploads/mayday-finalchapter.PNG "FinalChapter")
+![](/uploads/mayday-finalchapter.jpg "FinalChapter")
 
 La vie d'un jeune garçon qui grandit au côté de sa bien-aimée. Tous les moment qu'il a vécus.
 
