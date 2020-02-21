@@ -190,6 +190,7 @@
                   <strong> T </strong>
                   <br>
                   <span style="color:#f0ad4e">The Crossing Hero 😍</span> <br>
+                  <b><a href="https://www.billieintaiwan.com/the-ghost-bride"><span style="color:#f0ad4e">The Ghost Bride 😍</span></a></b><br>
                   <span style="color:#f0ad4e">The Magicians of Love 😄</span><br>
                   <span style="color:#f0ad4e">The Masked Lover ⭐</span><br>
                   <span style="color:#f0ad4e">The Perfect Match 😄</span><br>
