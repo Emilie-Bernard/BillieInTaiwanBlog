@@ -63,7 +63,7 @@ Le clip quant à lui retranscrit les souvenirs d'une femme au travers de son wal
 
 ##### Ressenti
 
-Cette chanson me fait beaucoup penser à Brotherhood car pour moi elle parle de rencontre et d'amitié, je pense à mes amies qui sans elles, je ne serais pas celle que je suis aujourd'hui et cette chanson fait vraiment sens à cette pensée. On grandi avec les gens, on change avec eux et cette chanson reflète vraiment ce sentiment. 
+Cette chanson me fait beaucoup pensé à Brotherhood car pour moi elle parle de rencontre et d'amitié, je pense à mes amies qui sans elles, je ne serais pas celle que je suis aujourd'hui et cette chanson fait vraiment sens à cette pensée. On grandi avec les gens, on change avec eux et cette chanson reflète vraiment ce sentiment. 
 
 #### 02 - 成名在望 - Almost Famous
 
@@ -103,19 +103,3 @@ Il s'agit de la version live.
 ##### Ressenti
 
 Cette chanson raconte une histoire mais délivre aussi un message : celui de ne jamais abandonné les choses qu'on aime faire. Ne pas abandonner et avancer autant qu'on peut. En l'écoutant on entend un côté triste, une nostalgie en souvenir au chemin que le groupe parcouru.
-
-#### 03 - 好好 - Song About You
-
-##### Paroles
-
-Une histoire racontant la rapidité de la vie surtout quand on vit des moments superbes avec des personnes. Cette relation où les personnes oublient de grandir, reste entre l'enfance et l'âge adulte. Quand passer cet âge, nous ne faisons que se rappeler de ses souvenirs.
-
-##### Clip musical
-
-![](/uploads/mayday-songaboutyou.PNG "SongAboutYou")
-
-On peut voir deux lycéennes qui rencontrent une troisième jeune femme qui semble perdue. Une amitié naissante qui s'étale rapidement mais qui s'estompe tout aussi vite quand un garçon apparaît. Nous pouvons voir aussi des balançoires qui peuvent signifier la jeunesse et l'envie de ne jamais grandir.
-
-##### Ressenti
-
-Très jolie musique et aussi très triste. La mélancolie est présente pour raconter cette histoire d'amitié qui passe trop rapidement.
