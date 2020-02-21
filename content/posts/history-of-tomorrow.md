@@ -21,34 +21,6 @@ Il s'agit de leur neuvième et dernier album qui sortit en 2016. À lui seul il 
 
 L'album parle d'amour, d'amitié et de vie, mais aussi de leur vie. C'est ce qui en fait un chef d'oeuvre.
 
-#### Tracklist :
-
-[01- 如果我们不曾相遇 - What if we had never met](https://www.youtube.com/watch?v=eZMH6Mo0f9A)
-
-[02 - 成名在望 - Almost Famous](https://www.youtube.com/watch?v=-hU1O3bG1eo)
-
-[03 - 好好 - Song About You](https://www.youtube.com/watch?v=HxIct0i-CcA)
-
-[04 - 兄弟 - Brotherhood](https://www.youtube.com/watch?v=TcXFY-_rDzQ)
-
-05 - 人生有限公司 - Life Co. Ltd.
-
-[06 - 后来的我们 - Here, After, Us](https://www.youtube.com/watch?v=pd3eV-SG23E)
-
-[07 - 顽固 - Tough](https://www.youtube.com/watch?v=YKiMrg6rgYQ)
-
-[08 - 派对动物 - Party Animal](https://www.youtube.com/watch?v=Fn7NLWHJw4s)
-
-09 - 最好的一天 - Best Day of My Life
-
-[10 - 少年他的奇幻漂流 - The Life of Planet](https://www.youtube.com/watch?v=3LmjBbP-e8U)
-
-[11 - 终于结束的起点 - Beginning of the End](https://www.youtube.com/watch?v=Jv3zvWZlXkk)
-
-[12 - 任意门 - Dokodemo Door](https://www.youtube.com/watch?v=lUCa4e5Mkrc)
-
-[13 - 转眼 - Final Chapter](https://www.youtube.com/watch?v=GuqY5OViunk)
-
 #### 01- 如果我们不曾相遇 - What if we had never met
 
 ##### Paroles
