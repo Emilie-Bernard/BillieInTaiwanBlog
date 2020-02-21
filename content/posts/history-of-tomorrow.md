@@ -63,7 +63,7 @@ Le clip quant à lui retranscrit les souvenirs d'une femme au travers de son wal
 
 ##### Ressenti
 
-Cette chanson me fait beaucoup pensé à Brotherhood car pour moi elle parle de rencontre et d'amitié, je pense à mes amies qui sans elles, je ne serais pas celle que je suis aujourd'hui et cette chanson fait vraiment sens à cette pensée. On grandi avec les gens, on change avec eux et cette chanson reflète vraiment ce sentiment. 
+Cette chanson me fait beaucoup penser à Brotherhood car pour moi elle parle de rencontre et d'amitié, je pense à mes amies qui sans elles, je ne serais pas celle que je suis aujourd'hui et cette chanson fait vraiment sens à cette pensée. On grandi avec les gens, on change avec eux et cette chanson reflète vraiment ce sentiment. 
 
 #### 02 - 成名在望 - Almost Famous
 
