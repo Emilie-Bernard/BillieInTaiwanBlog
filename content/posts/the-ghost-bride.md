@@ -1,11 +1,11 @@
 ---
 title: The Ghost Bride
-subtitle: Cours et complet
+subtitle: Court et complet
 category:
   - Dramas
 author: Billie
 date: 2020-02-21T12:54:52.199Z
-featureImage: /uploads/The-Ghost-Bride.jpg
+featureImage: /uploads/the-ghost-bride-teaser-key-art-e1578562946347.jpg
 ---
 ## Fiche drama
 
