@@ -25,8 +25,6 @@ Cette famille vient de perdre le jeune héritierLim Tian Ching et organise cette
 
 Elle est sa famille partent de la fête, mais Tian Ching commence à hanter Li Lan. Et alors que son père part pour aller trouver de nouvelles épices il tombe soudainement dans le coma. Pour le sauver Li Lan va accepter d’aider Tian Ching à trouver son assassin. Lors de sa recherche, elle va tomber sur Er Lang, un gardien céleste venu pour emprisonner Tian Ching et comprendre pourquoi il n’a pas encore été jugé par la cour de l’au-delà.
 
-
-
 ## Mon avis 17/20
 
 ### Histoire
@@ -83,6 +81,4 @@ Il pourrait y avoir une suite comme il ne pourrait pas. Cela me serait égal tel
 
 Si vous avez deux soirées où vous ne savez pas quoi faire et que vous aimez le genre mystérieux horreur mais pas trop et que vous voulez voir quelque chose de différent alors foncez.
 
-
-
-Lien pour le voir sur Netflix
+[Lien pour le voir sur Netflix](https://www.netflix.com/watch/80240978?trackId=13752289&tctx=0%2C0%2C2d68279e4c500e66bb6be3cdf64f034c2ea5ecd4%3Ac13511eb27aa9776e3c52c7482db4e6cf3a81f59%2C%2C)
