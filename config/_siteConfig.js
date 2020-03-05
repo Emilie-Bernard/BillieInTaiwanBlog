@@ -31,10 +31,6 @@ export default {
       link: '/categories/musiques'
     },
     {
-      name: 'Voyages',
-      link: '/categories/voyages'
-    },
-    {
       name: 'Contact',
       link: '/contact'
     }

@@ -14,7 +14,7 @@
                 Bonjour !
               </p>
               <p class="subtitle">
-                N'hésitez pas à m'envoyer un message
+                N'hésitez pas à m'envoyer un message par mail à l'adresse suivante : bearimnal@gmail.com
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
@@ -37,11 +37,11 @@
               </div>
             </article>
           </div>
-          <div class="tile is-parent is-8">
-            <article class="tile is-child box">
+ <!--         <div class="tile is-parent is-8">
+           <article class="tile is-child box">
               <contact-form />
             </article>
-          </div>
+          </div>-->
         </div>
       </template>
     </main-section>
