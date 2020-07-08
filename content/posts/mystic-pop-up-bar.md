@@ -21,16 +21,12 @@ Type : Fantastique, Romance, Mystère, Comédie, Drame
 
 C'est alors qu'elle rencontre **Han Kang Bae**, un jeune homme travaillant dans une grande surface. Depuis petit, il n'a pas de famille car il a un don spécial. En effet, à chaque fois qu'on le touche, la personne commence à raconter  ce qu'il y a au fond de son cœur.
 
-
-
 ## Mon avis 19/20
 
 ### Histoire
 
-
+Cette série à beaucoup de points en communs avec beaucoup de films/séries coréen. Beaucoup disent que c'est un copié collé de Hotel Del Luna.
 
 ### Personnages
-
-
 
 ### Fin
